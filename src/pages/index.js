@@ -44,9 +44,9 @@ class Index extends React.Component {
                   <h2>Mission</h2>
                 </header>
                 <p>
-                  We provide trainings to empower and equip software engineers
-                  of all backgrounds with the tools and confidence to negotiate
-                  their compensation packages.
+                  Gold Lines Ask provides trainings to empower and equip
+                  software engineers of all backgrounds with the tools and
+                  confidence to negotiate their compensation packages.
                 </p>
                 <ul className="actions">
                   <li>
@@ -67,16 +67,19 @@ class Index extends React.Component {
                 </header>
                 <p>
                   Gaby Andrade and Taylor Hesselgrave are software engineers in
-                  San Francisco, California who became passionate about teaching
-                  salary negotiation skills after successfully negotiating
-                  multiple job offers in 2018. Since then, they have taught
-                  negotiation workshops at multiple Bay Area coding bootcamps,
-                  including Hackbright Academy and Techtonica, and individually
-                  coached engineers in the Bay Area and remotely through their
-                  salary negotiation processes.
+                  San Francisco, CA who started Gold Lines Ask in 2019 to teach
+                  other engineers how to advocate for themeselves in salary
+                  negotiations. After successfully negotiating multiple
+                  engineering offers in 2018, Gaby and Taylor felt inspired to
+                  help....Since then, they have taught negotiation workshops at
+                  multiple Bay Area coding bootcamps, including Hackbright
+                  Academy and Techtonica, and individually coached engineers in
+                  the Bay Area and remotely through their salary negotiation
+                  processes.
                   <br />
-                  <br /> They are especially passionate about helping
-                  underrepresented people in the field negotiate...
+                  <br /> They are passionate about closing the wage gap in tech
+                  that disproportionaly and negatively affects women, people of
+                  color, and other underrepresented folks.
                 </p>
               </div>
               <span className="image">
@@ -87,7 +90,7 @@ class Index extends React.Component {
 
           <section id="first" className="main special">
             <header className="major">
-              <h2>Magna veroeros</h2>
+              <h2>Workshops</h2>
             </header>
             <ul className="features">
               <li>
