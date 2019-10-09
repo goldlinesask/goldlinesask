@@ -89,31 +89,38 @@ class Index extends React.Component {
 
           <section id="first" className="main special">
             <header className="major">
-              <h2>Workshops</h2>
+              <h2>Workshop Structure</h2>
             </header>
             <ul className="features">
               <li>
                 <span className="icon major style1 fa-code"></span>
-                <h3>Ipsum consequat</h3>
+                <h3>Why Its Important, Even If You're Not Successful</h3>
                 <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
+                  We help engineers understand why its important to negotiate
+                  their offers whether or not they end up increasing their
+                  initial offer. We illustrating the compounding effects that
+                  negotiating early on in your career can have on your lifetime
+                  earnings, and review what other benefits can come of
+                  negotiating.
                 </p>
               </li>
               <li>
                 <span className="icon major style3 fa-copy"></span>
-                <h3>Amed sed feugiat</h3>
+                <h3>How to Assess Your Offer </h3>
                 <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
+                  Two offers can offer the same salary but but wildly different
+                  in terms of total compensation. We help engineers understand
+                  the different components of an offer and come up with an ask
+                  that is beneficial to their unique situation.
                 </p>
               </li>
               <li>
                 <span className="icon major style5 fa-diamond"></span>
-                <h3>Dolor nullam</h3>
+                <h3>Stragies for Negotiating</h3>
                 <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
+                  We equip engineers with strategies for how to approach every
+                  step of the negotiation process, which can start before any
+                  formal "negotation" conversations begin.
                 </p>
               </li>
             </ul>
