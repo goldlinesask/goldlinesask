@@ -1,6 +1,6 @@
 # Gold Lines Ask
 
-This repo houses the (currently WIP) professional website for [Gold Lines Ask: Salary Negotiation for Software Engineers](https://goldlinesask.github.io/goldlinesask/).
+This repo houses the (currently WIP) professional website for <a href="https://goldlinesask.github.io/goldlinesask/" target="_blank">Gold Lines Ask: Salary Negotiation for Software Engineers</a>.
 
 ## Installation
 
@@ -26,6 +26,6 @@ Is based off [Stellar site starter](https://github.com/codebushi/gatsby-starter-
   npm run deploy // run deploy script to update publish website
 ```
 
-**DO NOT DO**
+**DO NOT DOs**
 * do not run deploy script while on master branch
 * do not commit anything directly to gh-pages branch, instead pull changes from master as described above
