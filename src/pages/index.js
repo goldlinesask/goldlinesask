@@ -26,7 +26,7 @@ class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <Helmet title="Gold Lines Ask" />
+        <Helmet title="Gatsby Starter - Stellar" />
 
         <Header />
 
@@ -41,13 +41,12 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Ipsum sed adipiscing</h2>
+                  <h2>Mission</h2>
                 </header>
                 <p>
-                  Sed lorem ipsum dolor sit amet nullam consequat feugiat
-                  consequat magna adipiscing magna etiam amet veroeros. Lorem
-                  ipsum dolor tempus sit cursus. Tempus nisl et nullam lorem
-                  ipsum dolor sit amet aliquam.
+                  We provide trainings to empower and equip software engineers
+                  of all backgrounds with the tools and confidence to negotiate
+                  their compensation packages.
                 </p>
                 <ul className="actions">
                   <li>
@@ -56,6 +55,29 @@ class Index extends React.Component {
                     </Link>
                   </li>
                 </ul>
+              </div>
+            </div>
+          </section>
+
+          <section id="who-we-are" className="main special">
+            <div className="spotlight">
+              <div className="content">
+                <header className="major">
+                  <h2>Who We Are</h2>
+                </header>
+                <p>
+                  Gaby Andrade and Taylor Hesselgrave are software engineers in
+                  San Francisco, California who became passionate about teaching
+                  salary negotiation skills after successfully negotiating
+                  multiple job offers in 2018. Since then, they have taught
+                  negotiation workshops at multiple Bay Area coding bootcamps,
+                  including Hackbright Academy and Techtonica, and individually
+                  coached engineers in the Bay Area and remotely through their
+                  salary negotiation processes.
+                  <br />
+                  <br /> They are especially passionate about helping
+                  underrepresented people in the field negotiate...
+                </p>
               </div>
               <span className="image">
                 <img src={pic01} alt="" />
