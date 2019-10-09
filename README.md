@@ -7,11 +7,11 @@ This repo houses the (currently WIP) professional website for [Gold Lines Ask: S
 - git clone the repo
 - ensure you have gatsby installed on your machine
 - `npm install`
-- Run `gatsby develop` in the terminal to start the dev site.
+- run `gatsby develop` in the terminal to start the dev site
 
 ## Template Design
 
-Our repo is based off [Stellar site starter](https://github.com/codebushi/gatsby-starter-stellar) designed by HTML5 UP.
+Is based off [Stellar site starter](https://github.com/codebushi/gatsby-starter-stellar) designed by HTML5 UP.
 
 ## Deployment
 
@@ -25,3 +25,7 @@ Our repo is based off [Stellar site starter](https://github.com/codebushi/gatsby
   git push origin gh-pages -f // force push the updates to gh-pages branch
   npm run deploy // run deploy script to update publish website
 ```
+
+**DO NOT DO**
+* do not run deploy script while on master branch
+* do not commit anything directly to gh-pages branch, instead pull changes from master as described above
