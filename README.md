@@ -1,6 +1,6 @@
 # Gold Lines Ask
 
-This repo houses the (currently WIP) professional website for <a target="_blank" href="https://goldlinesask.github.io/goldlinesask/" >Gold Lines Ask: Salary Negotiation for Software Engineers</a>.
+This repo houses the (currently WIP) professional website for [Gold Lines Ask: Salary Negotiation for Software Engineers](https://goldlinesask.github.io/goldlinesask/).
 
 ## Installation
 
