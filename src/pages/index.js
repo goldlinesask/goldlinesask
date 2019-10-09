@@ -67,15 +67,14 @@ class Index extends React.Component {
                 </header>
                 <p>
                   Gaby Andrade and Taylor Hesselgrave are software engineers in
-                  San Francisco, CA who started Gold Lines Ask in 2019 to teach
-                  other engineers how to advocate for themeselves in salary
-                  negotiations. After successfully negotiating multiple
-                  engineering offers in 2018, Gaby and Taylor felt inspired to
-                  help....Since then, they have taught negotiation workshops at
-                  multiple Bay Area coding bootcamps, including Hackbright
-                  Academy and Techtonica, and individually coached engineers in
-                  the Bay Area and remotely through their salary negotiation
-                  processes.
+                  San Francisco, CA who started Gold Lines Ask in 2019. After
+                  successfully negotiating multiple engineering offers in 2018,
+                  Gaby and Taylor felt inspired to help other engineers advocate
+                  for themselves in salary negotiations. Since then, they have
+                  taught negotiation workshops at multiple Bay Area coding
+                  bootcamps, including Hackbright Academy and Techtonica, and
+                  individually coached engineers in the Bay Area and remotely
+                  through their salary negotiation processes.
                   <br />
                   <br /> They are passionate about closing the wage gap in tech
                   that disproportionaly and negatively affects women, people of
