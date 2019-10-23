@@ -8,7 +8,7 @@ This repo houses the (currently WIP) professional website for [Gold Lines Ask: S
 - ensure you have gatsby installed on your machine
 - `npm install`
 - run `gatsby develop` in the terminal to start the dev site
-- navigate to [localhost:8000](localhost:8000)
+- navigate to [localhost:8000](http://localhost:8000/)
 
 ## Template Design
 
