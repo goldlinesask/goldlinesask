@@ -16,16 +16,11 @@ Is based off [Stellar site starter](https://github.com/codebushi/gatsby-starter-
 ## Deployment
 
 ```bash
-  git checkout master // make sure you are on master branch
-  git pull // make sure you have the latest changes
-  git log // ditto ^, with the gh-pages branch behind
-  git checkout gh-pages // checkout the deployment branch
-  git rebase master // bring gh-pages up to date with master
-  git log // all should be together now
-  git push origin gh-pages -f // force push the updates to gh-pages branch
-  npm run deploy // run deploy script to update publish website
+  git checkout master 
+  git pull          # pull the latest changes from master 
+  npm run deploy    # deploy - all contents of the public folder will be moved to your repository’s gh-pages branch
 ```
+From: https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/#deploying-to-a-path-on-github-pages
 
 **DO NOT DOs**
-* do not run deploy script while on master branch
-* do not commit anything directly to gh-pages branch, instead pull changes from master as described above
+* touch gh-pages branch 
