@@ -24,9 +24,11 @@ class Index extends React.Component {
   }
 
   render() {
+    // TODO: change buttons to email buttons
+    // e.g. <a href="mailto:someone@yoursite.com?cc=someoneelse@theirsite.com, another@thatsite.com, me@mysite.com&bcc=lastperson@theirsite.com&subject=Big%20News&body=Body-goes-here">Email Us</a>
     return (
       <Layout>
-        <Helmet title="Gatsby Starter - Stellar" />
+        <Helmet title="Goldline Negotiations" />
 
         <Header />
 
@@ -191,23 +193,24 @@ class Index extends React.Component {
 
           <section id="cta" className="main special">
             <header className="major">
-              <h2>Congue imperdiet</h2>
+              <h2>Request a Quote</h2>
               <p>
-                Donec imperdiet consequat consequat. Suspendisse feugiat congue
-                <br />
-                posuere. Nulla massa urna, fermentum eget quam aliquet.
+                We offer custom workshops tailored to your audience and we offer
+                individual coaching. Because our offerings are so customized, we
+                encourage you to email us to request a personalized quote for
+                your specific needs.
               </p>
             </header>
             <footer className="major">
               <ul className="actions">
                 <li>
-                  <Link to="/generic" className="button special">
-                    Get Started
+                  <Link to="/generic" className="button">
+                    I'm interested in a Workshop!
                   </Link>
                 </li>
                 <li>
                   <Link to="/generic" className="button">
-                    Learn More
+                    I'm interested in Indivudal Coaching!
                   </Link>
                 </li>
               </ul>
