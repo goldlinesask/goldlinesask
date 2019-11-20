@@ -7,7 +7,7 @@ const Header = props => (
     <span className="logo">
       <img src={logo} alt="" />
     </span>
-    <h1>Gold Lines Ask</h1>
+    <h1>Goldline Negotiations</h1>
     <p>Salary Negotiation Workshops For Software Engineers</p>
   </header>
 )

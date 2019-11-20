@@ -8,7 +8,7 @@ const Footer = props => (
       <p>
         "Taylor & Gaby were harder on me than the actual recruiter, so by the
         time I had the conversation I was so nervous about, I was so ready." -
-        Yenare Ku, Software Engineer at MailChimp
+        Yanare Ku, Software Engineer at MailChimp
       </p>
     </section>
     <section>
