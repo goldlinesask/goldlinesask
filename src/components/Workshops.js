@@ -9,33 +9,31 @@ const Header = props => (
     <ul className="features">
       <li>
         <span className="icon major style1 fa-code"></span>
-        <h3>Why Its Important, Even If You're Not Successful</h3>
+        <h3>Tailored to your audience</h3>
         <p>
-          We help engineers understand why its important to negotiate
-          their offers whether or not they end up increasing their
-          initial offer. We illustrating the compounding effects that
-          negotiating early on in your career can have on your lifetime
-          earnings, and review what other benefits can come of
-          negotiating.
+        We specialize in negotiation coaching for women, members of underrepresented 
+        groups, self taught engineers, and bootcamp graduates. However, our workshops 
+        are relevant to all and are specifically tailored to the audience they are for.
         </p>
       </li>
       <li>
         <span className="icon major style3 fa-copy"></span>
-        <h3>How to Assess Your Offer </h3>
+        <h3>Strategies</h3>
         <p>
-          Two offers can offer the same salary but but wildly different
-          in terms of total compensation. We help engineers understand
-          the different components of an offer and come up with an ask
-          that is beneficial to their unique situation.
+        We give attendees a framework for assessing their offer and outline strategies 
+        for negotiating the compensation package that fits their goals. We cover all steps
+         of the negotiation process: from salary research, to initial talks with the recruiter, 
+         to actually negotiating the offer, making sure attendees are prepared for each step.
         </p>
       </li>
       <li>
         <span className="icon major style5 fa-diamond"></span>
-        <h3>Stragies for Negotiating</h3>
+        <h3>Role Playing</h3>
         <p>
-          We equip engineers with strategies for how to approach every
-          step of the negotiation process, which can start before any
-          formal "negotation" conversations begin.
+        We believe that the best way to prepare for this process is through practicing! 
+        Our workshops are interactive - we cover different role playing scenarios that 
+        students are likely to come across in their own negotiations. We also provide 
+        scripts and tips on how attendees can tailor their scripts for their goals.
         </p>
       </li>
     </ul>
