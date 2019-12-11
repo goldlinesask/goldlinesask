@@ -8,46 +8,42 @@ const Testimonials = props => (
     </header>
     <ul className="features">
       <li>
-        <span className="icon major style1 fa-code"></span>
-        <h3>Why Its Important, Even If You're Not Successful</h3>
+        <h3>Yanare</h3>
+        <h4>Software Engineer II</h4>
         <p>
-          We help engineers understand why its important to negotiate
-          their offers whether or not they end up increasing their
-          initial offer. We illustrating the compounding effects that
-          negotiating early on in your career can have on your lifetime
-          earnings, and review what other benefits can come of
-          negotiating.
+          "....Taylor & Gaby were harder on me than the actual recruiter, so by the
+          time I had the conversation I was so nervous about, I was so ready..."
         </p>
       </li>
       <li>
-        <span className="icon major style3 fa-copy"></span>
-        <h3>How to Assess Your Offer </h3>
+        <h3>Vanessa</h3>
+        <h4>Full-Stack/UI Engineer</h4>
         <p>
-          Two offers can offer the same salary but but wildly different
-          in terms of total compensation. We help engineers understand
-          the different components of an offer and come up with an ask
-          that is beneficial to their unique situation.
+          "The negotiation process was very difficult and slightly confusing, but I was happy to have Gaby to turn to. She helped me evaluate two offers I was torn between and <strong>gave me the confidence to continue forward</strong> with my decision, and even ask for a <strong>$10K signing bonus!</strong>"
         </p>
       </li>
       <li>
-        <span className="icon major style5 fa-diamond"></span>
-        <h3>Stragies for Negotiating</h3>
+        <h3>Another Person</h3>
         <p>
-          We equip engineers with strategies for how to approach every
-          step of the negotiation process, which can start before any
-          formal "negotation" conversations begin.
+          "....Taylor & Gaby were harder on me than the actual recruiter, so by the
+          time I had the conversation I was so nervous about, I was so ready..."
+        </p>
+      </li>
+      <li>
+        <h3>Michelle</h3>
+        <h4>Support Engineer</h4>
+        <p>
+          "Gaby and Taylor gave me the confidence I needed to negotiate my first job offer in tech! Through their workshop, I learned how to navigate my first offer and successfully ask for more. I negotiated a <strong>X% increase over my initial offer</strong> and it would not have been possible without Gaby and Taylor! <strong>I’m so happy they gave me the guidance I needed!</strong>"
+        </p>
+      </li>
+      <li>
+        <h3>Kristen</h3>
+        <h4>Full-Stack/UI Engineer</h4>
+        <p>
+          "The idea of negotiating was very scary and overwhelming, but Taylor made the process manageable. She patiently and thoroughly helped me shore up my weaknesses and taught me techniques to <strong>prepare for every possible outcome</strong>. I really appreciated the methodical way she lowered my anxiety. In the end, I successfully negotiated <strong>$5K more in base salary and a $10K signing bonus.</strong>"
         </p>
       </li>
     </ul>
-    <footer className="major">
-      <ul className="actions">
-        <li>
-          <Link to="/generic" className="button">
-            Learn More
-          </Link>
-        </li>
-      </ul>
-    </footer>
   </section>
 )
 
