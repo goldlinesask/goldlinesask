@@ -8,46 +8,47 @@ const Testimonials = props => (
     </header>
     <ul className="features">
       <li>
-        <span className="icon major style1 fa-code"></span>
-        <h3>Why Its Important, Even If You're Not Successful</h3>
+        <h3>Yanare - Software Engineer II</h3>
         <p>
-          We help engineers understand why its important to negotiate
-          their offers whether or not they end up increasing their
-          initial offer. We illustrating the compounding effects that
-          negotiating early on in your career can have on your lifetime
-          earnings, and review what other benefits can come of
-          negotiating.
+          "....Taylor & Gaby were harder on me than the actual recruiter, so by the
+          time I had the conversation I was so nervous about, I was so ready..."
         </p>
       </li>
       <li>
-        <span className="icon major style3 fa-copy"></span>
-        <h3>How to Assess Your Offer </h3>
+        <h3>Another Person</h3>
         <p>
-          Two offers can offer the same salary but but wildly different
-          in terms of total compensation. We help engineers understand
-          the different components of an offer and come up with an ask
-          that is beneficial to their unique situation.
+          "....Taylor & Gaby were harder on me than the actual recruiter, so by the
+          time I had the conversation I was so nervous about, I was so ready..."
         </p>
       </li>
       <li>
-        <span className="icon major style5 fa-diamond"></span>
-        <h3>Stragies for Negotiating</h3>
+        <h3>Another Person</h3>
         <p>
-          We equip engineers with strategies for how to approach every
-          step of the negotiation process, which can start before any
-          formal "negotation" conversations begin.
+          "....Taylor & Gaby were harder on me than the actual recruiter, so by the
+          time I had the conversation I was so nervous about, I was so ready..."
+        </p>
+      </li>
+      <li>
+        <h3>Another Person</h3>
+        <p>
+          "....Taylor & Gaby were harder on me than the actual recruiter, so by the
+          time I had the conversation I was so nervous about, I was so ready..."
+        </p>
+      </li>
+      <li>
+        <h3>Kristen</h3>
+        <h4>Full-Stack/UI Engineer</h4>
+        <p>
+          "Taylor patiently and thoroughly helped me shore up my
+          weaknesses in my negotiation technique. She made the
+          negotiation process something I could manage, giving me
+          techniques to walk through each possibility step-by-step.
+          I really appreciated the methodical way she lowered my anxiety
+          by preparing me for every outcome. In the end, I successfully
+          negotiated $5K more in base salary and a $10K signing bonus."
         </p>
       </li>
     </ul>
-    <footer className="major">
-      <ul className="actions">
-        <li>
-          <Link to="/generic" className="button">
-            Learn More
-          </Link>
-        </li>
-      </ul>
-    </footer>
   </section>
 )
 
