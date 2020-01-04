@@ -8,7 +8,7 @@ const Header = props => (
       <img src={logo} alt="" />
     </span>
     <h1>Goldline Negotiations</h1>
-    <p>Salary Negotiation Workshops For Software Engineers</p>
+    <p>Salary Negotiation Workshops & Coaching for Software Engineers</p>
   </header>
 )
 

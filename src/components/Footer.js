@@ -4,11 +4,9 @@ import React from 'react'
 const Footer = props => (
   <footer id="footer">
     <section>
-      <h2>"I increased my salary by 38%!"</h2>
+      <h2>"Negotiate hard and know your worth."</h2>
       <p>
-        "Taylor & Gaby were harder on me than the actual recruiter, so by the
-        time I had the conversation I was so nervous about, I was so ready." -
-        Yanare Ku, Software Engineer at MailChimp
+        - Michelle Obama, <i>Becoming</i>
       </p>
     </section>
     <section>
@@ -23,8 +21,7 @@ const Footer = props => (
           <a href="https://www.linkedin.com/in/gandrade/" target="_blank">
             Gaby Andrade
           </a>
-        </dd>
-        <dd>
+          ,&nbsp;
           <a href="https://www.linkedin.com/in/thesselgrave/" target="_blank">
             Taylor Hesselgrave
           </a>

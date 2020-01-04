@@ -9,31 +9,38 @@ const Header = props => (
     <ul className="features">
       <li>
         <span className="icon major style1 fa-code"></span>
-        <h3>Tailored to your audience</h3>
+        <h3>Tailored to Your Audience</h3>
         <p>
-        We specialize in negotiation coaching for women, members of underrepresented 
-        groups, self taught engineers, and bootcamp graduates. However, our workshops 
-        are relevant to all and are specifically tailored to the audience they are for.
+          Our workshops are relevant to people of all backgrounds, and are
+          tailored to your specific audience. We specialize in negotiation
+          coaching for coding bootcamp graduates, self taught engineers, members
+          of underrepresented groups, and women. Attendees will leave the
+          workshop ready to take on their negotiation conversations and
+          motivated to make powerful asks.
         </p>
       </li>
       <li>
         <span className="icon major style3 fa-copy"></span>
         <h3>Strategies</h3>
         <p>
-        We give attendees a framework for assessing their offer and outline strategies 
-        for negotiating the compensation package that fits their goals. We cover all steps
-         of the negotiation process: from salary research, to initial talks with the recruiter, 
-         to actually negotiating the offer, making sure attendees are prepared for each step.
+          We give attendees a framework for assessing their offer and outline
+          strategies for negotiating a compensation package that fits their
+          goals. We cover all steps of the negotiation process: from salary
+          research and initial talks with recruiters to actually negotiating the
+          offer. It is our goal to ensure our attendees are prepared for each
+          step of the process.
         </p>
       </li>
       <li>
         <span className="icon major style5 fa-diamond"></span>
         <h3>Role Playing</h3>
         <p>
-        We believe that the best way to prepare for this process is through practicing! 
-        Our workshops are interactive - we cover different role playing scenarios that 
-        students are likely to come across in their own negotiations. We also provide 
-        scripts and tips on how attendees can tailor their scripts for their goals.
+          Practice! Practice! Practice! We believe that the best way to prepare
+          for what can be an intimidating conversation is to rehearse. Our
+          workshops are interactive - we cover different role playing scenarios
+          that students are likely to come across in their own negotiations. We
+          also provide starter scripts and tips on how attendees can customize
+          their scripts to reflect their individual goals.
         </p>
       </li>
     </ul>
