@@ -7,12 +7,11 @@ import React from 'react'
 const Quote = props => (
   <section id="request" className="main special">
     <header className="major">
-      <h2>Request a Quote!!</h2>
+      <h2>Request a Quote</h2>
       <p>
-        We offer custom workshops tailored to your audience and we offer
-        individual coaching. Because our offerings are so customized, we
-        encourage you to email us to request a personalized quote for
-        your specific needs.
+        We offer negotiation workshops and individual coaching. Because our
+        offerings are so customized, we encourage you to contact us directly to
+        request a quote for your specific needs.
       </p>
     </header>
     <footer className="major">
@@ -24,7 +23,7 @@ const Quote = props => (
         </li>
         <li>
           <Link to="/generic" className="button">
-            I'm interested in Indivudal Coaching!
+            I'm interested in Individual Coaching!
           </Link>
         </li>
       </ul>
