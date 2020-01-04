@@ -18,7 +18,7 @@ const Quote = props => (
         <li>
           <a
             className="button"
-            href="mailto:goldlinesask@gmail.com?subject=Workshop Quote Reqesut"
+            href="mailto:goldlinesask@gmail.com?subject=Workshop Quote Request"
           >
             I'm interested in a Workshop!
           </a>
@@ -26,7 +26,7 @@ const Quote = props => (
         <li>
           <a
             className="button"
-            href="mailto:goldlinesask@gmail.com?subject=Coaching Quote Reqesut"
+            href="mailto:goldlinesask@gmail.com?subject=Coaching Quote Request"
           >
             I'm interested in Individual Coaching!
           </a>
