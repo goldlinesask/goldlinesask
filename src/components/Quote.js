@@ -23,7 +23,7 @@ const Quote = props => (
         </li>
         <li>
           <Link to="/generic" className="button">
-            I'm interested in Indivudal Coaching!
+            I'm interested in Individual Coaching!
           </Link>
         </li>
       </ul>
