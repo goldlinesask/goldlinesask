@@ -1,10 +1,26 @@
-        #testimonials {
-            p {
-                margin-bottom: 1em
-            }
+#testimonials {
+  p {
+    margin-bottom: 1em;
+  }
 
-            p span {
-                color: _palette(accent2);
-                font-weight: 400;
-            }
-        }
+  p span {
+    color: _palette(accent2);
+    font-weight: 400;
+  }
+
+  .two {
+    width: calc(#{(100% / 2.2)} - #{_size(element-margin)});
+  }
+
+  @include breakpoint(medium) {
+    .two {
+      width: 100%;
+    }
+  }
+
+  @include breakpoint(small) {
+    .two {
+      width: 100%;
+    }
+  }
+}
