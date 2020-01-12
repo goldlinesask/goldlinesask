@@ -1,5 +1,6 @@
-import { Link } from 'gatsby'
 import React from 'react'
+
+import RequestQuoteButton from './RequestQuoteButton'
 
 const Header = props => (
   <section id="workshops" className="main special">
@@ -47,9 +48,7 @@ const Header = props => (
     <footer className="major">
       <ul className="actions">
         <li>
-          <Link to="/generic" className="button">
-            Learn More
-          </Link>
+          <RequestQuoteButton />
         </li>
       </ul>
     </footer>

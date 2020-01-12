@@ -1,4 +1,3 @@
-import { Link } from 'gatsby'
 import React from 'react'
 
 // TODO: change buttons to email buttons
@@ -17,14 +16,20 @@ const Quote = props => (
     <footer className="major">
       <ul className="actions">
         <li>
-          <Link to="/generic" className="button">
+          <a
+            className="button"
+            href="mailto:goldlinesask@gmail.com?subject=Workshop Quote Request"
+          >
             I'm interested in a Workshop!
-          </Link>
+          </a>
         </li>
         <li>
-          <Link to="/generic" className="button">
+          <a
+            className="button"
+            href="mailto:goldlinesask@gmail.com?subject=Coaching Quote Request"
+          >
             I'm interested in Individual Coaching!
-          </Link>
+          </a>
         </li>
       </ul>
     </footer>
